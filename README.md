@@ -4,8 +4,6 @@ The goal is to know the sales of products in the outlets
 
 BigSmartSells is a dataset which contains different items/products with their information, and the outlet they came for (and their information)
 
-Goal : to know the sales of products in the outlets
-
 Benefit : to manage the stocks
 
 Difference with the credit card database:
